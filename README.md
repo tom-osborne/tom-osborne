@@ -1,4 +1,4 @@
-[![tom-osborne's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-osborne)](https://github.com/tom-osborne/github-readme-stats)
+[![tom-osborne's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-osborne&theme=dracula)](https://github.com/tom-osborne/github-readme-stats)
 
 <!--
 **tom-osborne/tom-osborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
