@@ -1,9 +1,6 @@
 # About me
 My name is Tom, but friends call me Stan (it's a nickname that stuck!). I am a Mechanical Engineer from the UK. I enjoy gaming and programming in my spare time.  
   
-# FiveM & QBCore  
-I have been using and working with FiveM as a hobby since the summer of 2021 and in particular with QBCore since the start of 2022. In May of 2022, I joined the QBCore development team, where I develop the framework resources and provide support for the framework users. 
-
 **QBCore Links:** [Discord](https://discord.gg/qbcore) | [Documentation](https://docs.qbcore.org/qbcore-documentation/) | [GitHub](https://github.com/qbcore-framework)
 
 ## Support me!
